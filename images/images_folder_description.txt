@@ -1,0 +1,11 @@
+This folder contains screenshots and images referenced in the README file of this repository. Each image provides visual representation and context for the evolution of README files and project documentation throughout the Data Analytics course at Turing College.
+
+- 01_First_README_M1S1_DA.png: Screenshot of the initial README submission for Module 1 Sprint 1.
+- 02_Third_README_M1S3_DA.png: Screenshot representing the third README submission, marking additional file inclusion for Module 1 Sprint 3.
+- 03_Fifth_README_M2S1_DA.png: Image capturing the fifth project submission for Module 2 Sprint 1, focusing on visualising data using Tableau.
+- 04_Seventh_README_M3S1_DA.png: Screenshot illustrating the seventh project submission for Module 3 Sprint 1, emphasising retention cohorts and churn analysis.
+- 05_Eighth_README_M3S2_DA.png: Image showcasing the eighth project submission for Module 3 Sprint 2, highlighting enhancements in documentation and design.
+- 06_Ninth_README_M3S3_DA.png: Screenshot depicting the ninth project submission for Module 3 Sprint 3, focusing on CLV customer segmentation and RFM analysis.
+- 07_Tenth_README_M3S4_DA.png: Image representing the latest project submission for Module 3 Sprint 4, featuring polished linear and logistic regression documentation.
+
+These images provide a visual journey of the incremental improvements made in documenting technical projects, reflecting the progression of skills and understanding in data analytics and project documentation.
