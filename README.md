@@ -27,7 +27,7 @@ Each snapshot below captures a stage in the progression of my skills in creating
 **In the seventh repository**, the documentation had matured. I included comprehensive SQL queries and validation checks, ensuring methodological clarity and a clear overview for reviewers.
 - `04_Seventh_README_M3S1_DA.png` - _The seventh project submission for Module 3 Sprint 1 - Retention Cohorts & Churn, which included more detailed documentation._ ![Seventh README Screenshot](images/04_Seventh_README_M3S1_DA.png)
 
-**The eighth repository** was a leap in structure and user-centric design. It contained a well-organized listing of contents, including detailed methodologies and results, enhancing the usefulness of the repository.
+**The eighth repository** was a leap in structure and user-centric design. It contained a well-organised listing of contents, including detailed methodologies and results, enhancing the usefulness of the repository.
 - `05_Eighth_README_M3S2_DA.png` - _A significant enhancement in the documentation for Funnels & A/B Tests during Module 3 Sprint 2, featuring structured headings and embedded links._ ![Eighth README Screenshot](images/05_Eighth_README_M3S2_DA.png)
 
 **By the ninth repository**, I offered a clear and welcoming introduction to the projects, along with methodically described SQL files and analysis workbooks, which provided an in-depth understanding of the work involved.
@@ -53,6 +53,6 @@ I warmly welcome your input to refine the project documentation further. Your pe
 Your engagement is not just helpful — It's at the heart of open-source collaboration and drives the quality of this project ever higher.
 <br/><br/>
 ## Contact Information
-Do you have questions or are interested in discussing data analytics and project documentation? I'm always open to sharing insights and exploring new ideas. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maciej-urbanke/)
+If you have questions or are interested in discussing data analytics and project documentation, I'm always open to sharing insights and exploring new ideas. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maciej-urbanke/) or read [About Me](https://github.com/maciej-u) on my GitHub profile.
 
 Whether it's feedback on the projects, inquiries about collaborations, or just a chat about the data world, I'm just a message away.
