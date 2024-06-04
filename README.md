@@ -1,19 +1,19 @@
 # README Evolution
 
 ## Repository Overview
-This repository showcases the evolution of README files and the accompanying project documentation submitted to GitHub throughout my Data Analytics course at Turing College. Each file is a visual representation of the README at the time of submission for a specific module and sprint. The files illustrate the improvements made in documentation design, organisation, and readability throughout the program.
+This repository showcases the evolution of README files and the accompanying project documentation submitted to GitHub throughout my Data Analytics course at Turing College. Each file represents the README at the time of submission for a specific module and sprint. The files illustrate the improvements made in documentation design, organization, and readability throughout the program.
 
 ## Reflection
 
 Starting out, my first **README** was pretty basic — just a link and nothing else. I didn't know much about GitHub or how to make things look good on it. But with each project, I tried to do a little better, adding bits here and there, making it easier for anyone who came across my work to understand what I was up to.
 
-Now, when I look back, I see a bunch of small steps that have been added up. I've gotten the hang of explaining my work clearly and learned that the little details make a difference. It feels good to know that I'm leaving behind something that's not just for grades but also useful for others, maybe even for future me.
+Now, when I look back, I see a bunch of small steps that have added up. I've gotten better at explaining my work clearly and learned that the little details make a difference. It feels good to know that I'm leaving behind something that's not just for grades but also useful for others, maybe even for future me.
 
 Ultimately, I've learned a lot — not just about data but also about sharing it. And that's something worth noting.
 
 ## Incremental Improvements in Documentation
 
-Each snapshot below captures a stage in the progression of my skills in creating clear, informative, and engaging documentation for technical projects.
+Each snapshot below captures a stage in the progression of my skills in creating clear, informative, and engaging documentation for analytical projects.
 
 **My first GitHub submission** was straightforward — a simple README with a direct link to the project's Google Sheet. It was the initial step in documenting and sharing my work, highlighting the importance of starting somewhere and improving from there.
 - `01_First_README_M1S1_DA.png` - _The initial submission for Module 1 Sprint 1 - Structured Approach to Data Analytics._ ![First README Screenshot](images/01_First_README_M1S1_DA.png)
@@ -33,7 +33,7 @@ Each snapshot below captures a stage in the progression of my skills in creating
 **By the ninth repository**, I offered a clear and welcoming introduction to the projects, along with methodically described SQL files and analysis workbooks, which provided an in-depth understanding of the work involved.
 - `06_Ninth_README_M3S3_DA.png` - _Further refinement for Module 3 Sprint 3 - CLV Customer Segmentation & RFM, focusing on accessibility and clarity._ ![Ninth README Screenshot](images/06_Ninth_README_M3S3_DA.png)
 
-**The tenth repository** represented a polished and professional level of documentation, with a comprehensive overview and structured guidance for using the repository, along with key research findings and contact information, setting a high bar for my future projects.
+**The tenth repository** represented a polished and professional level of documentation, with a comprehensive overview and structured guidance for using the repository, along with key research findings and contact information, setting a new standard for my future projects.
 - `07_Tenth_README_M3S4_DA.png` - _The latest and most polished version for Linear and Logistic Regression in Module 3 Sprint 4, with comprehensive descriptions and organised files._ ![Tenth README Screenshot](images/07_Tenth_README_M3S4_DA.png)
 
 
